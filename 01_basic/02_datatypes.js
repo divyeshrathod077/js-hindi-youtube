@@ -11,3 +11,15 @@ const id=Symbol('123')
 const anotherId=symbol('123')
 console.log(id==anotherId);
 
+const bigNumber = 3456789345555858585
+const heros = ["shark","nagraj","doga"]
+ let myobj={
+    name:"hitesh",
+    age : 22
+    
+
+}
+const myFunction =function(){
+    console.log("hello world");
+}
+console.log(typeof bigNumber);
