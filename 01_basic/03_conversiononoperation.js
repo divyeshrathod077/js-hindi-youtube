@@ -17,4 +17,7 @@ console.log(typeof stringNumber);
 let value =3
 let negValue=-value
 //console.log(negValue);
-let num1 ,num
+
+let gameCounter=100
+++gameCounter;
+console.log(gameCounter);
