@@ -9,7 +9,7 @@ const isLoggedIn=false
 let userEmail;
 const id=Symbol('123')
 const anotherId=symbol('123')
-console.log(id==anotherId);
+//console.log(id==anotherId);
 
 const bigNumber = 3456789345555858585
 const heros = ["shark","nagraj","doga"]
@@ -19,7 +19,13 @@ const heros = ["shark","nagraj","doga"]
     
 
 }
+console.log(typeof myobj);
 const myFunction =function(){
-    console.log("hello world");
+   // console.log("hello world");
 }
-console.log(typeof bigNumber);
+//console.log(typeof myobj);
+
+//+++++++++++++++++++++
+
+//stack(primitive),heap(non-primitive)
+
